@@ -1,2 +1,2 @@
 # HelloWorld
-Hello world training
+Hello world training!
